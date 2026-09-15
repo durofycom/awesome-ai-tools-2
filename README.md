@@ -1561,7 +1561,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
   <img src="https://images.unsplash.com/photo-1527430253228-e93688616381?q=80&w=1334&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&width=960" alt="AI Image" width="200"/>
 </p>
 
-This list highlights a selection of image generation tools, featuring advanced AI technologies such as Stable Diffusion, MidJourney, and DALL-E 3, among others. These tools offer a range of functionalities, from creating artistic visuals to generating realistic images.
+This list highlights a selection of image generation tools, featuring advanced AI technologies suchas Stable Diffusion, MidJourney, and DALL-E 3, among others. These tools offer a range of functionalities, from creating artistic visuals to generating realistic images.
 
 - [Stable Diffusion](https://stablediffusion.com) - AI model for stable and high-quality image generation.
 - [MidJourney](https://midjourney.com) - Advanced tool for AI-driven artistic image creation.
@@ -1578,6 +1578,8 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [This Person Does Not Exist](https://thispersondoesnotexist.com) - Generates realistic human faces using AI.
 - [Big Sleep](https://github.com/lucidrains/big-sleep) - AI model for generating images from text descriptions.
 - [GANPaint Studio](https://ganpaint.io) - Interactive tool for semantic photo manipulation.
+-[Durofy](https://durofy.com/)- Free AI magazine cover generator — upload a photo, pick a style, get a magazine cover; first 3 covers free, no signup.
+- 
 - [AI Gahaku](https://ai-art.tokyo/en) - AI artist generating paintings from photos.
 - [Deep Dream](https://deepdreamgenerator.com) - Google's AI tool for dream-like image alterations.
 - [Zyro AI Image Generator](https://zyro.com/ai/image-generator) - Business-oriented image generation.
